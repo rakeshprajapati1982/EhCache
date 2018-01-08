@@ -1,2 +1,2 @@
-# ehcache
+#  Use EhCache3 for In Memory Caching to Improvement Performance
 View my blog [http://readtorakesh.blogspot.com/2018/01/use-ehcache-for-in-memory-caching-to.html](http://readtorakesh.blogspot.com/2018/01/use-ehcache-for-in-memory-caching-to.html) for explanation and usage of code in this repository
