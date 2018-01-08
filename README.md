@@ -1,1 +1,2 @@
 # ehcache
+View my blog [http://readtorakesh.blogspot.com/2018/01/use-ehcache-for-in-memory-caching-to.html](http://readtorakesh.blogspot.com/2018/01/use-ehcache-for-in-memory-caching-to.html) for explanation and usage of code in this repository
